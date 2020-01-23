@@ -7,4 +7,8 @@ git clone https://github.com/MounirErhili/wallpapers.git
 * Download :
 [Wallpapers-1920](https://github.com/MounirErhili/wallpapers/archive/1920.zip "Wallpapers 1920") - 
 [Wallpapers-1080](https://github.com/MounirErhili/wallpapers/archive/1080.zip "Wallpapers 1080") - 
+<<<<<<< HEAD
 [Wallpapers-720](https://github.com/MounirErhili/wallpapers/archive/720.zip "Wallpapers 720")
+=======
+[Wallpapers-720](https://github.com/MounirErhili/wallpapers/archive/720.zip "Wallpapers 720")
+>>>>>>> 5b9d0d9220b8df299047eec428c82f4eaa26e8c6
