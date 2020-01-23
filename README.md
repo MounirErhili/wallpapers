@@ -1,2 +1,2 @@
-# wallpaper-1920
-### Wallpaper Full HD - 1920
+# My Favorite Wallpapers
+* Sizes : **1920** & **1080** & **720**
